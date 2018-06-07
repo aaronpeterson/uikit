@@ -8789,7 +8789,7 @@
 
         data: {
             threshold: 10,
-            preventCatch: false
+            preventCatch: true
         },
 
         init: function() {
